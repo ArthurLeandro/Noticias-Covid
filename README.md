@@ -6,5 +6,5 @@ Eu escolhi fazer sobre notícias quanto ao processo e impacto desse vírus em as
 #Arthur Leandro
 
 Eu sou o Arthur Leandro, sou desenvolvedor WEB e de Jogos, e um amante de café. Quer ver mais sobre meu trabalho? 
-Olhe meu [portfolio](https://arthurleandro.github.io./),
+Olhe meu [portfolio](https://arthurleandro.github.io./),\n
 Me adicione no [linkedin](https://www.linkedin.com/in/arthur-leandro-developer/)
